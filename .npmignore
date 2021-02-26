@@ -2,3 +2,8 @@
 .prettierrc.js
 .gitattributes
 .gitignore
+
+test.js
+testing.js
+testing.test.js
+testing.test.jsx
